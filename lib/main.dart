@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text("CI Demo with Codemagic")),
+        appBar: AppBar(title: const Text("CI Demo with Codemagic (GUI)")),
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
